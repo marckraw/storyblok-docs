@@ -22,7 +22,7 @@ https://api.storyblok.com/v2
 
 Base URL for spaces created in the US:
 ```bash
-https://api{-us}.storyblok.com/v2
+https://api-us.storyblok.com/v2
 ```
 
 Base URL for spaces created in China:
